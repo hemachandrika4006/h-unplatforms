@@ -1,0 +1,19 @@
+table,th,tr,td{
+    
+    border:2px solid blueviolet;
+   
+    
+}
+th{
+    background-color: lightgray;
+    border:2px solid blueviolet;
+    padding: 5px;
+    padding-bottom: 5px;
+}
+td{
+   
+    border: 2px solid blueviolet;
+}
+.s{
+    color: blueviolet;
+}

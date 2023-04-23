@@ -1,0 +1,14 @@
+.App{
+    background-color: rgb(223, 220, 220);
+}
+.App1{
+    background-color: ghostwhite;
+    width:1250px;
+    height:680px;
+    padding-top: 20px;
+    margin-top: 35px;
+  }
+  .App2{
+    display: flex;
+    flex-direction: row;
+  }

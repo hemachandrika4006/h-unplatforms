@@ -1,0 +1,24 @@
+.f1{
+justify-content: space-between;
+display: flex;
+flex-direction: row;
+margin-right: 25px;
+border:1px solid black;
+padding:8px;
+
+
+}
+.btn{
+    justify-content: end;
+    margin-left: 250px;
+ 
+}
+.b1{
+    
+    background-color: blueviolet;
+    border-radius: 8%;
+    border-collapse: collapse;
+     padding-right: 15px;
+     padding-left: 15px;
+    margin-left: 15px;
+}

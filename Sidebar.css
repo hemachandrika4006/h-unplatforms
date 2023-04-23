@@ -1,0 +1,17 @@
+.k1{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: rgb(203, 203, 203);
+    width:250px;
+    height: 680px;
+    margin-top:35px;
+    padding-top: 20px;
+    margin-left: 10px;
+}
+.k2{
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
